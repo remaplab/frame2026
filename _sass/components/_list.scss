@@ -9,7 +9,7 @@ ul.talks {
 }
 ul.talks li {
     //background: #fff6f8;
-    background: #ffe7ec;
+    background: #e6f0ff;
     border-radius: 5px;
     display: flex;
     justify-content: space-between;
@@ -19,7 +19,7 @@ ul.talks li {
 
 ul.talks li:hover {
     //background: #fff6f8;
-    background: #ffdde4;
+    background: #d6e8ff;
 }
 
 span.talk-type {
@@ -31,7 +31,7 @@ span.talk-type {
     align-self: flex-end;
     text-transform: uppercase;
     // background: $black;
-    background: #E92030;
+    background: $primary;
     border-radius: 4px;
     letter-spacing: 1px;
     margin-left:40px;

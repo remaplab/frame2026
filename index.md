@@ -1,17 +1,12 @@
 ---
-title: IIR 2022
+title: FRAME 2026
 layout: home
-description: 12th Italian Information Retrieval Workshop
-date_location: June 29th - 30th, 2022<br>Milano, Italy
-intro_image: "images/citylife.jpg"
+description: 1st FRAME Workshop
+date_location: September 28–October 2 2026<br>Minneapolis, Minnesota, USA
+intro_image: "images/minneapolis-1000x360.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-The purpose of the **Italian Information Retrieval Workshop** (**IIR**) is to provide a meeting forum for stimulating and disseminating research in Information Retrieval, where Italian researchers (especially young ones) and researchers affiliated with Italian institutions can network and discuss their research results in an informal way.
-
-IIR 2022 is the 12th edition of the Italian Information Retrieval Workshop and is organized by [RecSys Lab](https://github.com/recsyspolimi) and [IKR3 Lab](https://github.com/ikr3-lab). It will take place on June 29th, 2022 at [Politecnico di Milano](https://www.polimi.it/en/), and on June 30th, 2022 at [University of Milano-Bicocca](https://en.unimib.it/).
-
-This edition of the Italian Information Retrieval Workshop will include a number of invited lectures from senior researchers.
-
-Participation to the IIR 2022 workshop will be free of charge. However, advance registration will be strictly required.
+The **FRAME Workshop** is a novel workshop aimed at piloting a new paradigm for recommender systems research execution and evaluation. The workshop will foster the identification and formalization of new recommendation tasks beyond the saturated top-N setting, with shared and rigorous evaluation methodologies. 
+In parallel, the workshop will explore a new paradigm for research assessment and validation, where contributions are initially judged solely on their experimental and methodological rigor with respect to predefined, industry-relevant tasks, and only in a second stage evaluated for their originality and broader scientific impact. The workshop will combine (i) an invitation-only interactive format structured as a moderated discussion aimed at jointly rethinking both the research agenda and the evaluation culture of the research community, and (ii) an open paper submission session, piloting new experimental and reviewing methodologies. The long-term goal is to establish a sustainable and iterative initiative, in which successive editions of the workshop progressively experiment with and refine alternative publication assessment models, applied to both established and newly proposed tasks, while continuously discussing and formalizing emerging recommendation tasks and their corresponding evaluation methodologies, ultimately strengthening experimental standards and bridging the gap between academic research and industry needs.

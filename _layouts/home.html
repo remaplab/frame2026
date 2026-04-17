@@ -40,22 +40,6 @@ bodyClass: page-home
           </div>
         </div>
       </div>
-
-      {% assign mainmenu = site.data.menus.main | sort: 'weight'  %}
-
-
-      {% for item in mainmenu %}
-      <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
-            </h2>
-            <!-- <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p> -->
-          </div>
-        </div>
-      </div>
-      {% endfor %}
     </div>
     <!--
     <div class="row justify-content-center">
@@ -66,48 +50,4 @@ bodyClass: page-home
     -->
   </div>
 </div>
-
-
-
-{% if site.data.sponsors %}
-<div class="strip strip-grey" id="sponsor">
-  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
-    <div class="row justify-content-center">
-      {% for sponsor in site.data.sponsors %}
-      <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="feature">
-          {% if sponsor.image %}
-          <div class="feature-image-big"><img alt="{{ sponsor.title }} logo" src="{{ sponsor.image | relative_url }}" /></div>
-          {% endif %}
-          <h2 class="feature-title">{{ sponsor.title }}</h2>
-        </div>
-      </div>
-      {% endfor %}
-
-    </div>
-  </div>
-</div>
-{% endif %}
-
-{% if site.data.features %}
-<div class="strip">
-  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
-    <div class="row justify-content-center">
-
-      {% for feature in site.data.features %}
-      <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="feature">
-          {% if feature.image %}
-          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image | relative_url }}" /></div>
-          {% endif %}
-          <h2 class="feature-title">{{ feature.title }}</h2>
-          <div class="feature-content">{{ feature.description }}</div>
-        </div>
-      </div>
-      {% endfor %}
-
-    </div>
-  </div>
-</div>
-{% endif %}
 

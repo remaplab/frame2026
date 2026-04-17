@@ -1,9 +1,10 @@
 ---
 title: Program
-layout: schedule
+layout: page
 permalink: /program/
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-# Program
+<strong>T.B.A.</strong> — The detailed program schedule will be published here soon.
+

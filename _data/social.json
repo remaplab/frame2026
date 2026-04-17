@@ -1,12 +1,7 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/recsyspolimi/",
-    "image": "images/social/github.svg"
-  }, 
-  {
-    "name": "Github",
-    "link": "https://github.com/ikr3-lab",
+    "link": "https://github.com/remaplab/",
     "image": "images/social/github.svg"
   }
 ]
