@@ -6,7 +6,7 @@ jobtitle: ""
 institutionurl: "https://www.polimi.it/en/"
 institution: Politecnico di Milano
 promoted: true
-weight: 1
+weight: 2
 lo: true
 layout: team
 personalpage: "https://mauriziofd.github.io/"

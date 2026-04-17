@@ -5,7 +5,7 @@ image: "images/team/noimage.png"
 institutionurl: ""
 institution: Spotify
 promoted: true
-weight: 1
+weight: 6
 lo: true
 layout: team
 personalpage: ""

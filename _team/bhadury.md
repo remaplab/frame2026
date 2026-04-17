@@ -5,7 +5,7 @@ image: "images/team/noimage.png"
 institutionurl: ""
 institution: Google
 promoted: true
-weight: 1
+weight: 4
 lo: true
 layout: team
 personalpage: ""

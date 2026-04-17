@@ -5,7 +5,7 @@ image: "images/team/ferro.jpg"
 institution: University of Padua
 institutionurl: ""
 promoted: true
-weight: 1
+weight: 5
 lo: true
 layout: team
 personalpage: ""

@@ -5,7 +5,7 @@ image: "images/team/noimage.png"
 institutionurl: ""
 institution: University of Klagenfurt
 promoted: true
-weight: 1
+weight: 3
 layout: team
 lo: true
 personalpage: ""
