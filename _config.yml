@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: '1st FRAME Workshop'
+title: 'Home'
 
 google_analytics_id: ""
 
@@ -9,10 +9,10 @@ homepage:
   show_social_buttons: true
 
 seo:
-  meta_og_title: "1st FRAME Workshop"
+  meta_og_title: "Methodology First - Rethinking Research Assessment in RecSys (FRAME)"
   meta_og_type: "website"
   meta_og_url: "https://remaplab.github.io/frame2026/"
-  meta_og_description: "The **FRAME Workshop** is a novel workshop aimed at piloting a new paradigm for recommender systems research execution and evaluation. The workshop will foster the identification and formalization of new recommendation tasks beyond the saturated top-N setting, with shared and rigorous evaluation methodologies."
+  meta_og_description: "The **Methodology First - Rethinking Research Assessment in RecSys (FRAME)** is a novel workshop aimed at piloting a new paradigm for recommender systems research execution and evaluation. The workshop will foster the identification and formalization of new recommendation tasks beyond the saturated top-N setting, with shared and rigorous evaluation methodologies."
 
 
 collections:

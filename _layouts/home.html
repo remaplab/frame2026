@@ -4,10 +4,24 @@ layout: default
 bodyClass: page-home
 ---
 
-<div class="intro pb-4">
+
+<div class="hero pb-0" style="padding-top:0">
+  <!-- Make the intro image span the full horizontal width -->
+  <div class="container-fluid px-0">
+    <div class="row no-gutters justify-content-start">
+      {% if page.intro_image %}
+      <div class="col-12 p-0 position-relative">
+        <img alt="{{ page.title }}" class="intro-image" style="width: 100%; height: 80%; display: block; margin: 0; padding: 0;" src="{{ page.intro_image | relURL }}" />
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+<div class="intro pb-4" style="padding-top:0; margin-top:-100px">
   <div class="container">
     <div class="row justify-content-start">
-      <div class="col-12 col-md-7 col-lg-4 order-1 order-md-1">
+      <div class="col-12 position-relative">
         <h1>{{ page.description }}</h1>
         <h2>{{ page.date_location }}</h2>
         {% if site.homepage.show_call_box %}
@@ -17,19 +31,13 @@ bodyClass: page-home
           {% include social.html invert_color=true %}
         {% endif %}
       </div>
-      {% if page.intro_image %}
-      <div class="col-12 col-md-5 col-lg-8 order-2 order-md-2 position-relative">
-        <img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
-      </div>
-      {% endif %}
     </div>
   </div>
 </div>
 
 
-
-<div class="strip">
-  <div class="container pt-6 pb-6 pb-md-10">
+<div class="strip" style="padding-top:0">
+  <div class="container">
     <div class="row justify-content-start">
       <div class="col-12 col-md-12 mb-1"  style="padding-bottom:50px">
         <div class="service service-summary">
@@ -50,4 +58,5 @@ bodyClass: page-home
     -->
   </div>
 </div>
+
 
