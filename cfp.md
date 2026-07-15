@@ -125,7 +125,7 @@ Submissions to this track will be double-blind. Papers should be anonymous, and 
 Submissions that are not anonymous as well as restricted versions that are not result-blind will be desk-rejected.
 
 <h3>Submission Format</h3>
-Research Papers should be submitted in PDF format via <strong>T.B.D.</strong> <!-- EasyChair: <a href="https://easychair.org/conferences/?conf=recsys2026workshops">https://easychair.org/conferences/?conf=recsys2026workshops</a>. -->
+Research Papers should be submitted in PDF format via <a href="https://easychair.org/my/conference?conf=recsys2026workshops">EasyChair</a>.
 The proceedings will be published on CEUR-WS, submissions should follow the CEUR-WS single-column format.
 The length should be commensurate to the contribution, the page limit for the complete version is 8 pages + references.
 
@@ -165,7 +165,7 @@ This track will use a single-blind review process. Review will focus on clarity,
 Authors of accepted Experimental Methodologies papers will be expected to actively contribute to the workshop discussion. In particular, accepted submissions are intended to inform and support the interactive session on candidate tasks, evaluation protocols, and methodological best practices. Depending on the final program design, participation may take the form of a short presentation, moderated discussion, or contribution to the longer-term community effort on task formalization and evaluation methodology.
 
 <h3>Submission Format</h3>
-Methodological Papers should be submitted in PDF format via <strong>T.B.D</strong> <!-- EasyChair: <a href="https://easychair.org/conferences/?conf=recsys2026workshops">https://easychair.org/conferences/?conf=recsys2026workshops</a>.-->
+Methodological Papers should be submitted in PDF format via <a href="https://easychair.org/my/conference?conf=recsys2026workshops">EasyChair</a>.
 The proceedings will be published on CEUR-WS, submissions should follow the CEUR-WS single-column format.
 The length should be commensurate to the contribution, the page limit is 8 pages + references.
 
