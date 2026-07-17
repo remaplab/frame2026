@@ -125,7 +125,7 @@ Submissions to this track will be double-blind. Papers should be anonymous, and 
 Submissions that are not anonymous as well as restricted versions that are not result-blind will be desk-rejected.
 
 <h3>Submission Format</h3>
-Research Papers should be submitted in PDF format via <a href="https://easychair.org/my/conference?conf=recsys2026workshops">EasyChair</a>.
+Research Papers should initially be submitted as the <strong>Methodology version (restricted, result-blind)</strong> in PDF format via <a href="https://easychair.org/my/conference?conf=recsys2026workshops">EasyChair</a>. <strong>The submission deadline applies to this version.</strong> Authors of papers that pass the first-stage review will be asked to update their EasyChair submission with the Experimental version (complete, including results). Further instructions, including the deadline for submitting the Experimental version, will be provided by email.
 The proceedings will be published on CEUR-WS, submissions should follow the CEUR-WS single-column format.
 The length should be commensurate to the contribution, the page limit for the complete version is 8 pages + references.
 
