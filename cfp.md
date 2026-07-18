@@ -93,7 +93,7 @@ The workshop features two tracks. The Research Papers track welcomes papers prop
     Paper submission deadline:
     <del>July 20, 2026</del>
     <strong>July 27, 2026</strong>
-    <span class="extended">Extended!</span>
+    <span style="color: red; font-weight: bold; margin-left: 8px;">Extended!</span>
   </li>
 <li>Author notification: August 14, 2026</li>
 </ul>
