@@ -39,8 +39,7 @@ intro_image_hide_on_mobile: false
         Coffee Break — Poster Session (3 papers)
         <ol style="margin:0 0 0 1.2em; padding-left:1.2em">
           <li><a href="#poster-1">SPADE: Escaping the Popularity-Similarity Frontier to Measure Serendipitous Recommendations</a><br><small>Tobias Vente, Maarten Peirsman, Noah Daniëls, Hannu Toivonen and Bart Goethals</small></li>
-          <li><a href="#poster-2">Local Identifiability in Collaborative Filtering via Polynomial Systems</a><br><small>Norio Kosaka</small></li>
-          <li><a href="#poster-3">Personalizing Diversity in News Recommendation: A User Study</a><br><small>Aishwarya Satwani and Robin Burke</small></li>
+          <li><a href="#poster-2">Personalizing Diversity in News Recommendation: A User Study</a><br><small>Aishwarya Satwani and Robin Burke</small></li>
         </ol>
       </td>
     </tr>
