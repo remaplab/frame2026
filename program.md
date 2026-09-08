@@ -8,6 +8,8 @@ intro_image_hide_on_mobile: false
 
 # Tentative Program
 
+<p><strong>Workshop date:</strong> 28 September 2026</p>
+
 <table>
   <thead>
     <tr>
@@ -17,7 +19,7 @@ intro_image_hide_on_mobile: false
   </thead>
   <tbody>
     <tr>
-      <td>09:00 - 10:30</td>
+      <td>??:?? - ??:??</td>
       <td>
         Session 1 (90 minutes) — Paper presentations (7 papers)
         <ol style="margin:0 0 0 1.2em; padding-left:1.2em">
@@ -32,7 +34,7 @@ intro_image_hide_on_mobile: false
       </td>
     </tr>
     <tr>
-      <td>10:30 - 11:00</td>
+      <td>??:?? - ??:??</td>
       <td>
         Coffee Break — Poster Session (3 papers)
         <ol style="margin:0 0 0 1.2em; padding-left:1.2em">
@@ -43,7 +45,7 @@ intro_image_hide_on_mobile: false
       </td>
     </tr>
     <tr>
-      <td>11:00 - 12:30</td>
+      <td>??:?? - ??:??</td>
       <td>
         Session 2 (90 minutes) — Panel / Interactive Discussion
       </td>
