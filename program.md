@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: false
 
 # Tentative Program
 
-<p><strong>Workshop date:</strong> 28 September 2026</p>
+<strong>Workshop date:</strong> 28 September 2026
 
 <table>
   <thead>
