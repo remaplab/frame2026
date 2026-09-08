@@ -2,7 +2,7 @@
 title: FRAME 2026
 layout: home
 description: Methodology First - Rethinking Research Assessment in RecSys (FRAME)
-date_location: 28 September 2026, Minneapolis, Minnesota, USA
+date_location: September 28, 2026, Minneapolis, Minnesota, USA
 intro_image: "images/minneapolis-1000x360.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
