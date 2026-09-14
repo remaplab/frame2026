@@ -19,7 +19,7 @@ intro_image_hide_on_mobile: false
   </thead>
   <tbody>
     <tr>
-      <td>??:?? - ??:??</td>
+      <td>13:30 - 15:00</td>
       <td>
         Session 1 (90 minutes) — Paper presentations (7 papers)
         <ol style="margin:0 0 0 1.2em; padding-left:1.2em">
@@ -34,7 +34,7 @@ intro_image_hide_on_mobile: false
       </td>
     </tr>
     <tr>
-      <td>??:?? - ??:??</td>
+      <td>15:00 - 15:30</td>
       <td>
         Coffee Break — Poster Session (3 papers)
         <ol style="margin:0 0 0 1.2em; padding-left:1.2em">
@@ -44,7 +44,7 @@ intro_image_hide_on_mobile: false
       </td>
     </tr>
     <tr>
-      <td>??:?? - ??:??</td>
+      <td>15:30 - 17:00</td>
       <td>
         Session 2 (90 minutes) — Panel / Interactive Discussion
       </td>
