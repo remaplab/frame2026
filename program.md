@@ -24,9 +24,9 @@ intro_image_hide_on_mobile: false
         Session 1 (90 minutes) — Paper presentations (7 papers)
         <ol style="margin:0 0 0 1.2em; padding-left:1.2em">
           <li><a href="#paper-1">Serendipity-Aware Recommendation via Candidate Generation and Density-Based Rejection Sampling</a><br><small>Vivian Wagumba, Joseph Wathome, Mulang Onando and Mwangi Karanja</small></li>
-          <li><a href="#paper-2">From AutoRecSys to AutoRecLab: A Call to Build Evaluate, and Govern Autonomous Labs for RecSys Research</a><br><small>Joeran Beel, Bela Gipp, Tobias Vente, Moritz Baumgart, Philipp Meister and Sinan Pourazari</small></li>
+          <li><a href="#paper-2">A RecSys Paper for $20: Why We Must Build, Evaluate, and Govern Autonomous Recommender Systems Research Labs (AutoRecLabs)</a><br><small>Joeran Beel, Bela Gipp, Tobias Vente, Moritz Baumgart, Philipp Meister and Sinan Pourazari</small></li>
           <li><a href="#paper-3">Tie Handling Is Part of the Evaluation Protocol: An Order-Invariance Audit for Tie-Heavy Recommender Scores</a><br><small>Chengkun Guo, Han Chen, Yilin Zhu and Yingrui Li</small></li>
-          <li><a href="#paper-4">Beyond a Single NDCG Score: A Call for Joint Score &amp; Output Stability in Recommender-Systems Evaluations</a><br><small>Joeran Beel</small></li>
+          <li><a href="#paper-4">Your nDCG Score May Be Correct. But the Conclusion? A Call for Stability-Aware Offline Recommender Evaluation</a><br><small>Joeran Beel</small></li>
           <li><a href="#paper-5">The Forgotten Users of Recommender Systems</a><br><small>Sam Pieters, Basil Rommens, Noah Daniels and Bart Goethals</small></li>
           <li><a href="#paper-6">Does Diversity Actually Improve Long-term Retention? An Empirical Investigation with Failure Analysis of RL-based Diversity Control</a><br><small>Hyun Kang and Ji-Hyeong Han</small></li>
           <li><a href="#paper-7">Calibrating Reproduced Claims in Recommender Systems</a><br><small>Alan Said</small></li>
