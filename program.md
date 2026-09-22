@@ -6,8 +6,6 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-# Tentative Program
-
 <strong>Workshop date:</strong> September 28, 2026
 
 <table>
